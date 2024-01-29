@@ -1,7 +1,8 @@
 # Humtrex.github.io
 
 # Currículum Vitae
-![Foto](https://lh3.googleusercontent.com/a/ACg8ocLRFmbvXLggrLwntgMG8ji1a94S_rGi9grSIUJIWAHAoQ=s360-c-no)
+![](./Images/Perfil.jpeg)
+
 ## Información Personal
 - **Nombre:** Humberto Hernández Trejo
 - **Domicilio:** Felipe Carrillo Puerto #5506 El Colli CTM Zapopan, Jal C.P 45070

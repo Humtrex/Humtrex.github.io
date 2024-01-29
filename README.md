@@ -1,7 +1,7 @@
 # Humtrex.github.io
 
 # Currículum Vitae
-![](./Images/Perfil.jpeg)
+![](./Images/Perfil.jpg)
 
 ## Información Personal
 - **Nombre:** Humberto Hernández Trejo

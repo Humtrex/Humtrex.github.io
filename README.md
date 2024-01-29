@@ -22,6 +22,3 @@ Busco aplicar mis conocimientos en una empresa, contribuyendo con mi experiencia
 
 ## Aptitudes
 - Organización, Trabajo en equipo, Autonomía, Compromiso, Responsabilidad, Análisis de problemas.
-
-## Actividades:
-- Participación en actividades recreativas y constante mejora del nivel de inglés (actual B2).
